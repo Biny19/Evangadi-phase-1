@@ -1,2 +1,2 @@
 # Evangadi-phase-1
-Evangadi phase one repo
+This Repository contains Evangadi phase one courses(HTML, CSS, jQuery, Bootstrap... ), practical projects  
