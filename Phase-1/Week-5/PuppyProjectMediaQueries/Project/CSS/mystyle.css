@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+img {
+    width: 100%;
+}
+h1{
+    font-size: 35px;
+}
+.blueContinar{
+    background-color: #195774;
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+}
+.blueContinar h1{
+    padding: 25px 0;
+}
+.blueContinar h2{
+    padding: 100px 0;
+}
+.puppy{
+    width: 310px;
+    height: 310px;
+    display: block;
+    margin: 20px auto;
+    padding: 0 10px;
+}
+.pup{
+    height: 371px;
+}
+.missing{
+    background-color: #f04d65;  
+    width: 310px;
+    margin: 20px auto;
+}
+.missing p{
+    padding: 60px;
+    text-align: center;
+    font-size: 44px;
+}
+ h3{
+    text-align: center;
+    font-size: 35px;
+    padding: 30px;
+}
+@media (min-width: 960px) {
+    .puppies {
+        display: flex;
+        justify-content: space-between;
+        margin: 50px auto;
+    }
+
+}
